@@ -1,0 +1,14 @@
+.header_text{
+    text-align: center;
+    margin-top: 1.5rem;
+    color: White;
+}
+.img_wifi_casa{
+    width: 400px;
+    height: 600px;
+    display: block;
+    margin: auto;
+}
+body{
+    background-color: purple;
+}
